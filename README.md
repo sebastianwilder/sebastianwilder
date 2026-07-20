@@ -1,4 +1,7 @@
 <div align="center"> 
+<img width="320" height="140" alt="giphy" src="https://github.com/user-attachments/assets/a252a35d-cee4-4f46-9bc9-3b364ca4c0b2" />
+  
+<div align="center"> 
 
 ![](https://komarev.com/ghpvc/?username=coachdictatorer&color=yellow&style=plastic&label=goslings)
 

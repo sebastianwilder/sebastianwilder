@@ -4,7 +4,7 @@
   ♡
 <div align="center"> 
 
-![](https://komarev.com/ghpvc/?username=coachdictatorer&color=yellow&style=plastic&label=goslings)
+![](https://komarev.com/ghpvc/?username=sebastianwilder&color=yellow&style=plastic&label=stars)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
